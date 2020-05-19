@@ -52,6 +52,7 @@ h1 {
 .img {
     display: -webkit-inline-flex;
     margin-top: 70px;
+    text-align: center;
 }
 
 .img 1 {
